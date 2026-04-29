@@ -32,9 +32,11 @@ The model includes:
 * Longitudinal and transverse beams
 * Connection elements at beam-column interfaces
 
-The structure is modeled using parametric steel components and standard Advance Steel tools.
-
+The structure is modeled using parametric steel components and standard Advance Steel tools.  
 ---
+
+## Preview
+![Preview](preview.png)
 
 ## Key Learnings
 
